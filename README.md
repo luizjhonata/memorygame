@@ -1,16 +1,14 @@
-# Memory Game
-Memory game with Stranger Things cast
-
-# Big Game Survey 
+# Stranger Memory Survey 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/luizjhonata/memorygame/blob/main/LICENCE) 
 
-# Sobre o projeto
+# About the project
 
-Stranger Memory is a game that i made for a project chalenge during the BootCamp TQI FullStack Developer, ordenade by Digital Innovation One. In this project i put in pratice my knoledge about JavaScript, CSS3 and HTML5.
+Stranger Memory is a game with photos from Stranger Things cast, that i made for a project chalenge during the BootCamp TQI FullStack Developer, ordenade by [Digital Innovation One](https://www.dio.me/ "Site da Dio") for [TQI](https://www.tqi.com.br/). 
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+In this project i put in pratice my knoledge about JavaScript, CSS3 and HTML5.
 
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+The game consist in a memory game, with 16 cards. The game has a title with translate animation, a button for start new game with an effect that makes it look like he was tightened and a scoreboard with your number of moves. When you press start new game, the cards are shuffled and the scoreboard is reseted.
+
 
 ## Layout mobile
 ![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
